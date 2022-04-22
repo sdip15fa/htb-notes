@@ -1,1 +1,6 @@
+title: My htb notes
+baseurl: ""
+url: "https://htb.wcyat.me"
+github_username:  sdip15fa
+
 theme: jekyll-theme-hacker

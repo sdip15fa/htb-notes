@@ -1,2 +1,4 @@
 .lh/
 .vscode/
+_site/
+.jekyll-cache/
