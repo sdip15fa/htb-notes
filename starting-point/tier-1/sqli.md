@@ -19,3 +19,5 @@ gobuster dir -u 10.129.210.87 -w /usr/share/seclists/Discovery/Web-Content/direc
 ## SQL injection
 
 successfully logged in using `a' OR 1=1#` (dont even need to know the username)
+
+Additonal: (also possible using `xxx || 1=1`, untested)
